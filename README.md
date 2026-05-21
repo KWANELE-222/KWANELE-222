@@ -2,7 +2,7 @@
 
 ## AI & Machine Learning Developer | Python Developer | NLP Enthusiast
 
-Welcome to my GitHub profile! I am passionate about building intelligent systems, AI-powered applications, and software solutions that solve real-world problems. My work focuses on Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), and software development.
+Welcome to my GitHub profile! I am passionate about building intelligent systems, AI-powered applications, and software solutions that solve real-world problems. My work focuses on Artificial Intelligence, Machine Learning, and Natural Language Processing to create innovative solutions.
 
 ---
 
@@ -25,7 +25,7 @@ I enjoy creating intelligent applications that improve user experiences and auto
 
 # 💡 Career Objective
 
-My goal is to become a professional AI Engineer specializing in Machine Learning, NLP, and Intelligent Systems while contributing to impactful technology solutions in healthcare, education technology, and software development industries.
+My goal is to become a professional AI Engineer specializing in Machine Learning, NLP, and Intelligent Systems while contributing to impactful technology solutions in healthcare, education technology, and financial services.
 
 ---
 
@@ -118,7 +118,7 @@ An intelligent AI prototype developed to solve industry-specific challenges thro
 - Generative AI: Prompt Engineering — Coursera
 - Artificial Intelligence Essentials V2 — Coursera
 - Python for Data Science and AI — Coursera
-- AI Bootcamp — Coursera
+- [AI Bootcamp — Coursera](https://coursera.org/share/a048fcfe4655f8e0c1db12f3210b970a)
 - Supervised Machine Learning: Regression and Classification — DeepLearning.AI
 - Unsupervised Learning, Recommenders, Reinforcement Learning — DeepLearning.AI
 - Generative AI with Large Language Models — DeepLearning.AI
@@ -197,7 +197,7 @@ https://www.linkedin.com/in/kwanele-sekhoto-2335a5318
 
 # ⭐ Personal Brand Statement
 
-> AI & Machine Learning Developer passionate about building intelligent systems, NLP applications, and AI-powered solutions that solve real-world challenges through innovation and modern software development.
+> AI & Machine Learning Developer passionate about building intelligent systems, NLP applications, and AI-powered solutions that solve real-world challenges through innovation and modern software development practices.
 
 ---
 
