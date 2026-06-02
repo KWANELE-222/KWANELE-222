@@ -120,9 +120,7 @@ An intelligent AI prototype developed to solve industry-specific challenges thro
 - Python for Data Science and AI — Coursera
 - [AI Bootcamp — Coursera](https://coursera.org/share/a048fcfe4655f8e0c1db12f3210b970a)
 - Supervised Machine Learning: Regression and Classification — DeepLearning.AI
-- Supervised Machine Learning — DeepLearning.AI
 - Unsupervised Learning, Recommenders, Reinforcement Learning — DeepLearning.AI
-- Unsupervised Learning — DeepLearning.AI
 - Generative AI with Large Language Models — DeepLearning.AI
 - Introduction to Generative AI — Google Cloud
 - Python for Data Science, AI & Development — IBM
